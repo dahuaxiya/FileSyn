@@ -92,4 +92,4 @@ Transmission over the Internet requires the use of intranet penetration tools, t
 
 After establishing network in zerotier, use the obtained ip to replace the ip in Recv.py, use the same method as LAN method.
 
-Translated with www.DeepL.com/Translator (free version)
+
